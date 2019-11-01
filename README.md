@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+DOM is a tool that developers use to manipulate HTML files by impletementing Javascript
+
 2. What is an event?
+
+An Event allows JavaScript to register difference events in the HTML file
 
 3. What is an event listener?
 
+An Event Listener is used to attache a certain handler on to a specific element of the page.  When someone is pressing a button the event listener would fire the action it is commanded to do.
+
 4. Why would we convert a NodeList into an Array?
 
+Because NodeList is basically a list but is not numbered like an Array
+
 5. What is a component?
+
+Components are different technology that work with HTML, CSS and Javascript to reuse possiblities.
 
 ### Git Set up
 
